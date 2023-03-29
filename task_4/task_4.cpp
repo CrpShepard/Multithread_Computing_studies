@@ -2,7 +2,7 @@
 #include <omp.h>
 #include <time.h>
 #include <random>
-#define THREAD_NUM 8
+#define THREAD_NUM 2
 #define MATRIX_SIZE 1000
 using namespace std;
 
