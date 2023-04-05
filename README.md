@@ -1,4 +1,4 @@
-# Openmp_studies (лаба 1)
+# Openmp (лаба 1)
 Поставить в свойствах проекта openmp_support: YES
 
 #include <omp.h>  
